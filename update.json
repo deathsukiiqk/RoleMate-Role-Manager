@@ -1,0 +1,13 @@
+{
+  "name": "RoleMate - Role Manager",
+  "version": "1.2",
+  "download_url": "https://github.com/deathsukiiqk/RoleMate-Role-Manager/archive/refs/tags/1.2.zip",
+  "tested": "6.4",
+  "requires": "5.0",
+  "requires_php": "7.4",
+  "last_updated": "2025-04-03",
+  "sections": {
+    "description": "A lightweight role manager plugin.",
+    "changelog": "### Version 1.2\n- Fixed bugs\n- Improved performance"
+  }
+}
